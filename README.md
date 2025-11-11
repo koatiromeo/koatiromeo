@@ -221,20 +221,6 @@ security_arsenal = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koatiromeo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koatiromeo&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koatiromeo&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-</div>
-
----
-
 ## 🏆 Key Achievements & Featured Projects
 
 ```typescript
